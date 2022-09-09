@@ -1,6 +1,6 @@
 ## Expense Tracker
 
-Keep track of income and expenses. Add and remove items and save to local storage
+Keeps track of your total balance, income and expenses. Also shows a history of items you have expend money on or you have earned from. Provides option to add and remove items and save to local storage
 
 ## Website
 
